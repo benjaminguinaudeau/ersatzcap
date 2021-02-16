@@ -2,12 +2,6 @@
 title: "Untitled"
 ---
 
-<!-- knit: (function(input_file, encoding) { -->
-<!--   out_dir <- 'docs'; -->
-<!--   rmarkdown::render(input_file, -->
-<!--  encoding=encoding, -->
-<!--  output_file=file.path(dirname(input_file), out_dir, 'index.html'))}) -->
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -21,6 +15,10 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+
+## This is another thing
+
+ddqsfqs
 
 ## Including Plots
 

@@ -1,10 +1,7 @@
 name: "cars"
 output_dir: "docs"
 navbar:
-  title: "Cars"
-  left:
-  - text: "Home"
-    href: index.html
+  title: "Germany Policy Agendas"
 output:
   html_document:
     theme: cosmo

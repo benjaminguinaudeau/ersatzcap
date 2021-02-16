@@ -2,9 +2,9 @@ name: "cars"
 output_dir: "docs"
 navbar:
   title: "Cars"
-left:
+  left:
   - text: "Home"
-href: index.html
+    href: index.html
 output:
   html_document:
     theme: cosmo
